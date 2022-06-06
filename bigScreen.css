@@ -1,0 +1,21 @@
+.primary-heading {
+  color: white;
+  font-size: 3.6rem;
+  text-align: center;
+}
+p {
+  font-size: 25px;
+  color: white;
+  text-align: center;
+}
+
+.home p {
+  margin: 0px;
+
+  width: 80vw;
+}
+
+/* sevice  */
+.services {
+  height: 600px;
+}

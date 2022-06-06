@@ -1,0 +1,63 @@
+/* nav bar */
+.navbar li a {
+  padding: 0px 10px;
+  text-decoration: none;
+  color: white;
+}
+
+/* home */
+
+.home p {
+  margin: 0px 0px 10px 0px;
+
+  width: 80vw;
+}
+/* service section */
+.services-section {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.services {
+  margin: 27px;
+  width: 70vw;
+  height: fit-content;
+}
+
+/* client */
+
+.cln {
+  height: 300px;
+}
+
+.client-area {
+  height: 200px;
+}
+
+.clients {
+  margin: 10px;
+}
+
+/* contact  */
+
+.contact h1 {
+  padding: 0px;
+  margin: 0px;
+}
+.form {
+  margin: 0px;
+}
+input {
+  border-radius: 20px;
+  width: 40vw;
+  height: 10px;
+  /* padding: 5px; */
+}
+
+textarea {
+  padding: 5px;
+  border-radius: 20px;
+  width: 40vw;
+  height: 10vh;
+}
